@@ -251,7 +251,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#637777",
+        "foreground": "#767c88",
         "fontStyle": "italic"
       }
     },
@@ -334,7 +334,7 @@
       "name": "Keyword",
       "scope": ["punctuation.accessor", "keyword"],
       "settings": {
-        "foreground": "#506aff",
+        "foreground": "#6b81ff",
         "fontStyle": "italic"
       }
     },
@@ -606,8 +606,8 @@
         "meta.property-list entity.name.tag"
       ],
       "settings": {
-        "foreground": "#80CBC4",
-        "fontStyle": ""
+        "foreground": "#b5f0ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -642,7 +642,7 @@
       "name": "Meta Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#506aff",
+        "foreground": "#9195ff",
         "fontStyle": "italic"
       }
     },
