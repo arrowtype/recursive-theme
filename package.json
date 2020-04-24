@@ -1,0 +1,28 @@
+{
+  "name": "recursive-theme-vscode",
+  "displayName": "Recursive Theme for VS Code",
+  "description": "Theme by Arrow Type",
+  "version": "0.0.1",
+  "publisher": "Arrow Type",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Recursive Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/recursive-dark-color-theme.json"
+      },
+      {
+        "label": "Themer Light",
+        "uiTheme": "vs",
+        "path": "themes/recursive-light-color-theme.json"
+      }
+    ]
+  }
+}
