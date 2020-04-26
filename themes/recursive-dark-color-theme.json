@@ -594,7 +594,7 @@
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#7fdbca",
+        "foreground": "#f99898",
         "fontStyle": "italic"
       }
     },
