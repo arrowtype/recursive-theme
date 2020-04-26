@@ -730,7 +730,7 @@
     {
       "name": "Keyword Operator Comparison, imports, returns and Keyword Operator Ruby",
       "scope": [
-        "keyword.operator.comparison",
+        // "keyword.operator.comparison",
         "keyword.control.flow.js",
         "keyword.control.flow.ts",
         "keyword.control.flow.tsx",
@@ -1761,19 +1761,20 @@
         "keyword.operator.expression.in",
         "keyword.operator.relational",
         "keyword.operator.assignment",
-        "keyword.operator.comparison",
+        // "keyword.operator.comparison",
         "keyword.operator.type",
-        "keyword.operator",
+        "keyword.operator.logical",
+        // "keyword.operator",
         "keyword",
-        "punctuation.definintion.string",
-        "punctuation",
+        // "punctuation.definintion.string",
+        // "punctuation",
         "variable.other.readwrite.js",
         // "storage.type",
         "source.css",
         "string.quoted"
       ],
       "settings": {
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     }
   ]
