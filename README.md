@@ -7,17 +7,27 @@ Made to look especially nice with [Recursive Mono](https://github.com/arrowtype/
 1. Download this repo as a zip
 2. Add the entire folder to `~/.vscode/extensions/`
 
+## Current styling
+
+![Recursive theme with Python](readme-img/recursive_theme-python.png)
+
+![Recursive theme with Shell](readme-img/recursive_theme-shell.png)
+
+![Recursive theme with JavaScript](readme-img/recursive_theme-js.png)
+
+Note: these screenshots also make use of [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer).
+
 ## How to start your own theme
 
-**Easy**
+**Easiest method**
 
 https://themer.dev/
 
 **More control**
 
-- duplicate a theme you like within `~/.vscode/extensions/`
-- update package.json
-- update colors in `themes/________theme.json`
+1. duplicate a theme you like within `~/.vscode/extensions/`
+2. update package.json
+3. update colors in `themes/________theme.json`
 
 ## How to determine the type of a given token
 
