@@ -2,6 +2,11 @@
 
 Made to look especially nice with [Recursive Mono](https://github.com/arrowtype/recursive) (or any other code font with nice italics).
 
+## Installation
+
+1. Download this repo as a zip
+2. Add the entire folder to `~/.vscode/extensions/`
+
 ## How to start your own theme
 
 **Easy**
