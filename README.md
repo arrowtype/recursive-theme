@@ -1,6 +1,6 @@
 # WIP theme for VS Code
 
-Made especially to look nice with Recursive Mono, by Arrow Type.
+Made to look especially nice with [Recursive Mono](https://github.com/arrowtype/recursive) (or any other code font with nice italics).
 
 ## How to start your own theme
 
