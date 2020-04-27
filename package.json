@@ -17,11 +17,6 @@
         "label": "Recursive Dark",
         "uiTheme": "vs-dark",
         "path": "themes/recursive-dark-color-theme.json"
-      },
-      {
-        "label": "Themer Light",
-        "uiTheme": "vs",
-        "path": "themes/recursive-light-color-theme.json"
       }
     ]
   }
