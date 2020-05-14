@@ -80,12 +80,12 @@
     "editor.foreground": "#d6deeb",
     "editorLineNumber.foreground": "#4b6479",
     "editorLineNumber.activeForeground": "#e0f1ff",
-    "editorCursor.foreground": "#00ffd0",
-    "editor.selectionBackground": "#1d3b53",
-    "editor.selectionHighlightBackground": "#5f7e9779",
-    "editor.inactiveSelectionBackground": "#7e57c25a",
-    "editor.wordHighlightBackground": "#32374D",
-    "editor.wordHighlightStrongBackground": "#2E3250",
+    "editorCursor.foreground": "#ff0000",
+    "editor.selectionBackground": "#2571af",
+    "editor.selectionHighlightBackground": "#a3bdd35e",
+    "editor.inactiveSelectionBackground": "#c9b7e75a",
+    "editor.wordHighlightBackground": "#c6c9da5e",
+    "editor.wordHighlightStrongBackground": "#8d91b148",
     "editor.findMatchBackground": "#5f7e9779",
     "editor.findMatchHighlightBackground": "#1085bb5d",
     "editor.findRangeHighlightBackground": null,
@@ -1749,6 +1749,15 @@
         "foreground": "#8df0eb"
       }
     },
+    // {
+    //   "name": "normalize font style of other components",
+    //   "scope": [
+    //     "comment.line.number-sign.shell"
+    //   ],
+    //   "settings": {
+    //     "fontStyle": ""
+    //   }
+    // },
     {
       "name": "normalize font style of certain components",
       "scope": [
@@ -1760,15 +1769,13 @@
         "keyword.operator.or.regexp",
         "keyword.operator.expression.in",
         "keyword.operator.relational",
-
         "keyword.operator.type",
-        "keyword.operator.logical",
         "keyword",
-
         "variable.other.readwrite.js",
         "source.css",
         "string.quoted",
-        "meta.fstring.python"
+        "meta.fstring.python",
+        "comment.line"
       ],
       "settings": {
         "fontStyle": "italic"
