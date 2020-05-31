@@ -629,14 +629,16 @@
       "name": "Constant Other Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#FFEB95",
+        "fontStyle": "normal"
       }
     },
     {
       "name": "Keyword Other Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#FFEB95",
+        "fontStyle": "normal"
       }
     },
     {
