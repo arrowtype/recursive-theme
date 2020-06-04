@@ -1758,6 +1758,7 @@
         "comment.line.number-sign.shell",
         "meta.brace",
         "meta.var.expr",
+        "keyword.operator.relational",
       ],
       "settings": {
         "fontStyle": "normal"
@@ -1772,7 +1773,6 @@
         "keyword.operator.operator",
         "keyword.operator.or.regexp",
         "keyword.operator.expression.in",
-        "keyword.operator.relational",
         "keyword.operator.type",
         "keyword",
         "variable.other.readwrite.js",
