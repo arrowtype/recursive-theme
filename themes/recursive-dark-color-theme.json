@@ -342,7 +342,6 @@
       "name": "Storage",
       "scope": [
         "storage",
-        "meta.var.expr",
         "meta.class meta.method.declaration meta.var.expr storage.type.js",
         "storage.type.property.js",
         "storage.type.property.ts",
@@ -365,7 +364,7 @@
       "name": "Storage type",
       "scope": "storage.type.function.arrow.js",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "normal"
       }
     },
     {
@@ -394,7 +393,8 @@
       "name": "Meta Tag",
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "normal"
       }
     },
     {
@@ -1178,7 +1178,8 @@
       "name": "HTML Punctuation Definition Tag",
       "scope": "punctuation.definition.tag.html",
       "settings": {
-        "foreground": "#6ae9f0"
+        "foreground": "#6ae9f0",
+        "fontStyle": "normal"
       }
     },
     {
@@ -1751,22 +1752,23 @@
         "foreground": "#8df0eb"
       }
     },
-    // {
-    //   "name": "normalize font style of other components",
-    //   "scope": [
-    //     "comment.line.number-sign.shell"
-    //   ],
-    //   "settings": {
-    //     "fontStyle": ""
-    //   }
-    // },
     {
-      "name": "normalize font style of certain components",
+      "name": "normalize font style of other components",
+      "scope": [
+        "comment.line.number-sign.shell",
+        "meta.brace",
+        "meta.var.expr",
+      ],
+      "settings": {
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "Italiciz font style of certain components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
         "meta.property-list.scss variable.scss",
         "meta.property-list.sass variable.sass",
-        "meta.brace",
         "keyword.operator.operator",
         "keyword.operator.or.regexp",
         "keyword.operator.expression.in",
