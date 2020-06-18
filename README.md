@@ -1,6 +1,6 @@
 # Recursive theme for VS Code
 
-Made especially for with [Recursive Mono](https://github.com/arrowtype/recursive) (or any other code font with nice italics).
+Made especially for [Recursive Mono](https://github.com/arrowtype/recursive) (or any other code font with nice italics).
 
 ## Installation
 
