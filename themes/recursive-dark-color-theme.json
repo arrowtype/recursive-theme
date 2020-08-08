@@ -1388,7 +1388,8 @@
         "markup.heading.setext.2.markdown"
       ],
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#82b1ff",
+        "fontStyle": "bold"
       }
     },
     {
