@@ -1561,7 +1561,7 @@
     },
     {
       "name": "Python import control keyword",
-      "scope": "keyword.control",
+      "scope": ["keyword.control", "keyword.operator.logical"],
       "settings": {
         "foreground": "#6badff",
         "fontStyle": "italic"
