@@ -357,7 +357,7 @@
       "scope": "storage.type",
       "settings": {
         "foreground": "#6badff",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
