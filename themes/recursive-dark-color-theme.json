@@ -349,7 +349,7 @@
       ],
       "settings": {
         "foreground": "#8bc3ff",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -364,7 +364,7 @@
       "name": "Storage type",
       "scope": "storage.type.function.arrow.js",
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -394,7 +394,7 @@
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -630,7 +630,7 @@
       "scope": "constant.other.color",
       "settings": {
         "foreground": "#FFEB95",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -638,7 +638,7 @@
       "scope": "keyword.other.unit",
       "settings": {
         "foreground": "#FFEB95",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -1179,7 +1179,7 @@
       "scope": "punctuation.definition.tag.html",
       "settings": {
         "foreground": "#6ae9f0",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -1763,7 +1763,7 @@
         "keyword.operator.type",
       ],
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
