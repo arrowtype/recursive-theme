@@ -1761,13 +1761,14 @@
         "meta.var.expr",
         "keyword.operator.relational",
         "keyword.operator.type",
+        "punctuation.terminator.rule.scss"
       ],
       "settings": {
         "fontStyle": ""
       }
     },
     {
-      "name": "Italiciz font style of certain components",
+      "name": "Italicize font style of certain components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
         "meta.property-list.scss variable.scss",
