@@ -1761,7 +1761,8 @@
         "meta.var.expr",
         "keyword.operator.relational",
         "keyword.operator.type",
-        "punctuation.terminator.rule.scss"
+        "punctuation.terminator.rule.scss",
+        "keyword.operator.logical"
       ],
       "settings": {
         "fontStyle": ""
